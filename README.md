@@ -38,7 +38,6 @@ RegisterNumber: 212223230071
 
 
 ## Output:
-![lu decomposition]()
 
 ![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/e351e152-523a-43a3-af9c-cb69e855ef2c)
 ![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/6f7dcac7-d93f-45ef-ad85-b216d6bffa08)
