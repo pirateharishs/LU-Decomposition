@@ -17,6 +17,7 @@ To write a program to find the LU Decomposition of a matrix.
 (i) To find the L and U matrix
 
 Program to find the L and U matrix.
+
 Developed by: HARISH S
 RegisterNumber: 212223230071
 
@@ -27,6 +28,7 @@ RegisterNumber: 212223230071
 (ii) To find the LU Decomposition of a matrix
 
 Program to find the LU Decomposition of a matrix.
+
 Developed by: HARISH S 
 RegisterNumber: 212223230071
 
