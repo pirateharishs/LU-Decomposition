@@ -15,26 +15,19 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Program:
 (i) To find the L and U matrix
-```
-/*
+
 Program to find the L and U matrix.
 Developed by: HARISH S
 RegisterNumber: 212223230071
 
-
-*/
-
-
-```
 ![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/da3c5ac6-2574-4cf5-8626-6bebdd79bc1a)
 (ii) To find the LU Decomposition of a matrix
-```
-/*
+
+ 
 Program to find the LU Decomposition of a matrix.
 Developed by: HARISH S 
 RegisterNumber: 212223230071
-*/
-```
+
 ![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/9921758c-aae4-4577-956d-43b2f69bf520)
 
 
