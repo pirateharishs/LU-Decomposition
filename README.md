@@ -15,32 +15,32 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Program:
 (i) To find the L and U matrix
-
+```
+/*
 Program to find the L and U matrix.
-
 Developed by: HARISH S
-
 RegisterNumber: 212223230071
-
-![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/da3c5ac6-2574-4cf5-8626-6bebdd79bc1a)
-
-
+*/
+```
+![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/a3fd4d10-62c8-49c6-8987-495c57fd1817)
 
 (ii) To find the LU Decomposition of a matrix
 
+```
+/*
 Program to find the LU Decomposition of a matrix.
-
 Developed by: HARISH S 
-
 RegisterNumber: 212223230071
-
-![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/9921758c-aae4-4577-956d-43b2f69bf520)
+*/
+```
+![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/4eaa221d-c57f-4a56-b7da-396249bfbc0f)
 
 
 ## Output:
 
-![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/e351e152-523a-43a3-af9c-cb69e855ef2c)
-![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/6f7dcac7-d93f-45ef-ad85-b216d6bffa08)
+![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/4dd6e1e1-af88-4862-a346-3c10b00be4b9)
+
+![image](https://github.com/pirateharishs/LU-Decomposition/assets/166011385/39173d32-ef32-4028-b897-b5499dfe0cb4)
 
 
 ## Result:
